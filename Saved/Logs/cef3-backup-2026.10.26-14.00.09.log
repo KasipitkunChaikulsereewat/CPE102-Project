@@ -1,0 +1,5 @@
+[15852:23988:1026/201134.312:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15852:21736:1026/201134.361:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[15852:23988:1026/201134.375:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15852:23988:1026/201434.410:ERROR:device_event_log_impl.cc(196)] [20:14:34.404] USB: usb_service_win.cc:445 Failed to parse device interface GUID:
+[15852:23988:1026/210009.366:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

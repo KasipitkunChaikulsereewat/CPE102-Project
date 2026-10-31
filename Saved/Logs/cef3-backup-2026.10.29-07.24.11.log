@@ -1,0 +1,17 @@
+[12692:34068:1029/124808.480:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12692:20428:1029/124808.523:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[12692:34068:1029/124808.543:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[12692:34068:1029/124844.938:ERROR:device_event_log_impl.cc(196)] [12:48:44.915] USB: usb_service_win.cc:445 Failed to parse device interface GUID:
+[25624:5300:1029/132845.578:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 1A-E8E472CD04A69A7782FEDF9BC498A2DC will be ignored
+[36376:26324:1029/133635.454:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 28-2F29B4DE8D686D7C6587CF03B8153801 will be ignored
+[31832:10908:1029/133702.123:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 2A-F847EB4FAF99D81743DBF9A87959E7B3 will be ignored
+[12484:36292:1029/135818.695:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 2E-A88775932C10893E668F36E7AD51A5DC will be ignored
+[34728:4964:1029/140212.951:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 36-EC41587359635668320ADBD0B8664A44 will be ignored
+[4248:39748:1029/140223.439:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 3C-A7B13AE9F26BDAF9459DE1F91AAEFCD7 will be ignored
+[27272:22072:1029/140721.477:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 4A-481073F864588CF10622DF85C1CE44EC will be ignored
+[39280:5052:1029/141325.123:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 54-0EB61C6C26E0C035B0444B4760A4B113 will be ignored
+[34144:39256:1029/141501.841:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5E-45382B1CDF8AAACC1C0A8A56217CA2B1 will be ignored
+[14508:35392:1029/141602.705:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 62-2D1657F2E329735DC423B89652F91653 will be ignored
+[25624:20360:1029/141824.687:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6C-408481A66BBEB6D42955E6A9AA50A6D8 will be ignored
+[13984:12368:1029/142224.032:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 76-46DA91DA67ED595D3E2A14802BC37CC1 will be ignored
+[9368:21176:1029/142411.987:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 78-80B84C135D8A3F3B50270ACCC06C219A will be ignored
